@@ -17,4 +17,4 @@ In a terminal, run `node main.js` to execute the program. This syntax can vary d
 
 ## Running unit tests
 
-Run `npm test` to execute the unit tests via [Jest](https://jestjs.io).
+Run `npm run test` to execute the unit tests via [Jest](https://jestjs.io).
